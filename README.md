@@ -23,4 +23,4 @@ I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd
 You can reach me at:
 
 - [mattheotermine104@gmail.com](mailto:mattheotermine104@gmail.com) 📧
-<!-- - [LinkedIn](https://www.linkedin.com/in/mattheo-termine/) 💼 -->
+- [LinkedIn](www.linkedin.com/in/mattheo-termine-a6918522b) 💼
