@@ -5,7 +5,7 @@ I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd
 
 <div style="display: flex; align-items: center;">
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
-    <span style="margin-left: 10px; text-align: center;">HTML5 🌟🌟🌟🌟</span>
+    <span style="margin-left: 10px; text-align: center;  padding-top: 10px;">HTML5 🌟🌟🌟🌟</span>
 </div>
 
 <div style="display: flex; align-items: center;">
