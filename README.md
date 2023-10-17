@@ -4,7 +4,7 @@ I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd
 
 ## Skills 🚀
 
-- HTML5 🌟🌟🌟🌟
+- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML5 🌟🌟🌟🌟
 - CSS3 🌟🌟🌟🌟
 - JavaScript 🌟🌟🌟🌟
 - PHP 🌟🌟🌟
