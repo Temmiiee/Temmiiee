@@ -3,15 +3,21 @@
 I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd year of a computer Bachelor. I'm passionate about programming and always eager to learn new things.
 
 ## Skills 🚀
-
-- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML5 🌟🌟🌟🌟
-- CSS3 🌟🌟🌟🌟
-- JavaScript 🌟🌟🌟🌟
-- PHP 🌟🌟🌟
-- Python 🌟🌟🌟🌟🌟
-- C# 🌟🌟
-- Node.js 🌟🌟
-
+<div align="center">
+    
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/php.png"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    
+    <br/><br/>
+    
+    🌟🌟🌟🌟 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟🌟🌟🌟 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟🌟🌟🌟 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟🌟🌟 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟🌟🌟🌟🌟 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟🌟 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟🌟
+    
+</div>
 ## Projects 📂
 
 <!-- - [Project 1](https://github.com/username/project1) - Description of project 1.
