@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**Temmiiee/Temmiiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Mattheo 👋
 
-Here are some ideas to get you started:
+I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd year of a computer Bachelor. I'm passionate about programming and always eager to learn new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- HTML5 🌟🌟🌟🌟
+- CSS3 🌟🌟🌟🌟
+- JavaScript 🌟🌟🌟🌟
+- PHP 🌟🌟🌟
+- Python 🌟🌟🌟🌟🌟
+- C# 🌟🌟
+- Node.js 🌟🌟
+
+## Projects
+
+<!-- - [Project 1](https://github.com/username/project1) - Description of project 1.
+- [Project 2](https://github.com/username/project2) - Description of project 2.
+- [Project 3](https://github.com/username/project3) - Description of project 3. -->
+
+## Contact
+
+You can reach me at:
+
+- [mattheotermine104@gmail.com](mailto:mattheotermine104@gmail.com) 📧
+- [LinkedIn](https://www.linkedin.com/in/mattheo-termine/) 💼
+
+![Profile views](https://gpvc.arturio.dev/mattheotermine)
+
