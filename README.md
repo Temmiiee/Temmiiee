@@ -2,13 +2,40 @@
 I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd year of a computer Bachelor. I'm passionate about programming and always eager to learn new things.
 
 ## Skills 🚀
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟🌟🌟🌟
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟🌟🌟🌟
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟🌟🌟🌟
-  <img src="https://img.icons8.com/color/48/000000/php.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟🌟🌟
-  <img src="https://img.icons8.com/color/48/000000/python.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟🌟🌟🌟🌟
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟🌟
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌟🌟
+<div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+    <span style="margin-left: 10px;">HTML5</span>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+    <span style="margin-left: 10px;">CSS3</span>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+    <span style="margin-left: 10px;">JavaScript</span>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/php.png"/> 
+    <span style="margin-left: 10px;">PHP</span>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/python.png"/> 
+    <span style="margin-left: 10px;">Python</span>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
+    <span style="margin-left: 10px;">C#</span>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+    <span style="margin-left: 10px;">Node.js</span>
+</div>
 ## Projects 📂
 
 <!-- - [Project 1](https://github.com/username/project1) - Description of project 1.
