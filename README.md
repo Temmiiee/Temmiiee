@@ -37,6 +37,7 @@ I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
     <span style="margin-left: 10px; text-align: center;">Node.js 🌟🌟</span>
 </div>
+
 ## Projects 📂
 
 <!-- - [Project 1](https://github.com/username/project1) - Description of project 1.
