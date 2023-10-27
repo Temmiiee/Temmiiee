@@ -20,7 +20,7 @@ I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd
 
 <div style="display: flex; align-items: center;">
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-    <span style="margin-left: 10px; text-align: center;">JavaScript 🌟🌟🌟🌟</span>
+    <span style="margin-left: 10px; text-align: center;">JavaScript 🌟🌟</span>
 </div>
 
 <div style="display: flex; align-items: center;">
