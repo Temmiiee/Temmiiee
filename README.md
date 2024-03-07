@@ -27,7 +27,7 @@ I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd
 ### Tools I know
 
 <p>
- <img src="https://img.icons8.com/color/48/000000/Unity" alt="Unity">
+ <img src="https://img.icons8.com/color/48/000000/unity" alt="Unity">
  
  <img src="https://img.icons8.com/color/48/000000/linux" alt="Linux">
  
