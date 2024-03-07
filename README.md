@@ -5,41 +5,46 @@ I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd
 
 ### Technologies I know
 
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+<p> 
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+ 
+ <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+ 
+ <img src="https://img.icons8.com/color/48/000000/python.png"/> 
+ 
+ <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript"/> 
+ 
+ <img src="https://img.icons8.com/color/48/000000/vue-js" alt="Vue-Js"/> 
+ 
+ <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/> 
+ 
+ <img src="https://img.icons8.com/color/48/000000/react-native" alt="react-native"/> 
+ 
+ <img src="https://img.icons8.com/color/48/000000/c-sharp-logo" alt="C Sharp">
+</p>
 
-<img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-
-<img src="https://img.icons8.com/color/48/000000/python.png"/> 
-
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript"/> 
-
-<img src="https://img.icons8.com/color/48/000000/vue-js" alt="Vue-Js"/> 
-
-<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/> 
-
-<img src="https://img.icons8.com/color/48/000000/react-native" alt="react-native"/> 
-
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo" alt="C Sharp">
 
 ### Tools I know
 
-<img src="https://img.icons8.com/color/48/000000/Unity" alt="Unity">
-
-<img src="https://img.icons8.com/color/48/000000/linux" alt="Linux">
-
-<img src="https://img.icons8.com/color/48/000000/git" alt="Git">
-
-<img src="https://img.icons8.com/color/48/000000/github" alt="Github">
-
-<img src="https://img.icons8.com/color/48/000000/mysql" alt="MySQL">
-
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019" alt="Visual Studio Code">
-
-<img src="https://img.icons8.com/color/48/000000/visual-studio" alt="Visual Studio">
-
-<img src="https://img.icons8.com/color/48/000000/docker" alt="Docker">
-
-<img src="https://img.icons8.com/color/48/000000/wordpress" alt="Wordpress">
+<p>
+ <img src="https://img.icons8.com/color/48/000000/Unity" alt="Unity">
+ 
+ <img src="https://img.icons8.com/color/48/000000/linux" alt="Linux">
+ 
+ <img src="https://img.icons8.com/color/48/000000/git" alt="Git">
+ 
+ <img src="https://img.icons8.com/color/48/000000/github" alt="Github">
+ 
+ <img src="https://img.icons8.com/color/48/000000/mysql" alt="MySQL">
+ 
+ <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019" alt="Visual Studio Code">
+ 
+ <img src="https://img.icons8.com/color/48/000000/visual-studio" alt="Visual Studio">
+ 
+ <img src="https://img.icons8.com/color/48/000000/docker" alt="Docker">
+ 
+ <img src="https://img.icons8.com/color/48/000000/wordpress" alt="Wordpress">
+ </p>
 
 <!--
 ## My projects 📂
