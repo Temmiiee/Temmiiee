@@ -3,7 +3,7 @@ I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd
 
 ## Skills 🚀
 
-### Technologies I know
+### Technologies :computer:
 
 <p> 
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
@@ -24,7 +24,7 @@ I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd
 </p>
 
 
-### Tools I know
+### My tools 🧰
 
 <p>
  <img src="https://img.icons8.com/color/48/000000/unity" alt="Unity">
