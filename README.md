@@ -44,6 +44,10 @@ I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd
  <img src="https://img.icons8.com/color/48/000000/docker" alt="Docker">
  
  <img src="https://img.icons8.com/color/48/000000/wordpress" alt="Wordpress">
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" style="height:48px; width:48px;">
+
+ 
  </p>
 
 <!--
