@@ -1,8 +1,6 @@
 # Hi there, I'm Mattheo 👋
 I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd year of a computer Bachelor. I'm passionate about programming and always eager to learn new things.
 
-## Skills 🚀
-
 ### Technologies :computer:
 
 <p> 
