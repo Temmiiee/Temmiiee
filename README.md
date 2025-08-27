@@ -18,7 +18,7 @@ I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd
  
  <img src="https://img.icons8.com/color/48/000000/react-native" alt="react-native"/>
 
- <img src="https://cp.beget.com/shared/6ayu2lMsV1DpkfCrePd2HEMWvsKDBY-c/logo_nodejs2x.png.webp" alt="Node JS"/>
+ <img src="https://img.icons8.com/color/48/000000/node-js" alt="Node JS"/>
 </p>
 
 
