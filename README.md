@@ -1,63 +1,59 @@
-# Hi there, I'm Mattheo 👋
-I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd year of a computer Bachelor. I'm passionate about programming and always eager to learn new things.
+# 👋 Hi, I'm Mattheo
 
-### Technologies :computer:
+🚀 Web developer passionate about building **modern, performant and accessible** websites.  
+🎓 Graduated from a **BUT Métiers du Multimédia et de l’Internet (MMI)** at Université de Lorraine, specialized in **web development** and **interactive interfaces**.  
+✨ I love creating digital experiences that combine **clean code**, **good UX/UI design**, and **SEO optimization**.  
 
-<p> 
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
- 
- <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
- 
- <img src="https://img.icons8.com/color/48/000000/python.png"/> 
- 
- <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript"/> 
- 
- <img src="https://img.icons8.com/color/48/000000/vue-js" alt="Vue-Js"/> 
- 
- <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/> 
- 
- <img src="https://img.icons8.com/color/48/000000/react-native" alt="react-native"/>
+---
 
- <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node JS"/>
-</p>
-
-
-### My tools 🧰
+## 🔧 Technologies & Tools
 
 <p>
- <img src="https://img.icons8.com/color/48/000000/linux" alt="Linux">
- 
- <img src="https://img.icons8.com/color/48/000000/git" alt="Git">
- 
- <img src="https://img.icons8.com/color/48/000000/github" alt="Github">
- 
- <img src="https://img.icons8.com/color/48/000000/mysql" alt="MySQL">
- 
- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019" alt="Visual Studio Code">
- 
- <img src="https://img.icons8.com/color/48/000000/visual-studio" alt="Visual Studio">
- 
- <img src="https://img.icons8.com/color/48/000000/docker" alt="Docker">
- 
- <img src="https://img.icons8.com/color/48/000000/wordpress" alt="Wordpress">
+  <!-- Frontend -->
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/vue-js.png" alt="Vue.js"/>
+  
+  <!-- Backend -->
+  <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
+  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" style="height:48px; width:48px;">
+  <!-- Tools -->
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/wordpress.png" alt="WordPress"/>
+  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/visual-studio.png" alt="Visual Studio"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" height="48" width="48"/>
+</p>
 
- 
- </p>
+---
 
-## My projects 📂
+## 📂 Projects
 
- - [Mimoo Portfolio](https://github.com/Temmiiee/Mimoo-portfolio) - Portfolio I made for my artist gf.
-- [Minecraft Item Generator](https://github.com/Temmiiee/Minecraft-Item-Generator) - Very basic random minecraft item generator to challenge yourself into getting the random item the fastest. 
-- [Everyday Nature Bot](https://github.com/Temmiiee/everyday-nature-bot/) - Simple bluesky bot that post nature pictures eveyday.
--->
+- 🎨 [**Mimoo Portfolio**](https://github.com/Temmiiee/Mimoo-portfolio) — Portfolio created for an artist.  
+- 🎮 [**Minecraft Item Generator**](https://github.com/Temmiiee/Minecraft-Item-Generator) — A fun random item generator for Minecraft challenges.  
+- 🤖 [**Everyday Nature Bot**](https://github.com/Temmiiee/everyday-nature-bot) — A Bluesky bot posting nature pictures daily.  
 
-[![Temmiiee's GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=Temmiiee&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+---
 
-## Contact 📞
+## 📊 GitHub Stats
 
-You can reach me at:
+[![Temmiiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Temmiiee&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- [mattheotermine104@gmail.com](mailto:mattheotermine104@gmail.com) 📧
-- [LinkedIn](www.linkedin.com/in/mattheo-termine-a6918522b) 💼
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temmiiee&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📫 Let's connect
+
+<p align="left">
+  <a href="mailto:mattheotermine104@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/mattheo-termine-a6918522b"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/Temmiiee"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/></a>
+</p>
