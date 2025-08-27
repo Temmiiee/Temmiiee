@@ -16,17 +16,15 @@ I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd
  
  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/> 
  
- <img src="https://img.icons8.com/color/48/000000/react-native" alt="react-native"/> 
- 
- <img src="https://img.icons8.com/color/48/000000/c-sharp-logo" alt="C Sharp">
+ <img src="https://img.icons8.com/color/48/000000/react-native" alt="react-native"/>
+
+ <img src="https://cp.beget.com/shared/6ayu2lMsV1DpkfCrePd2HEMWvsKDBY-c/logo_nodejs2x.png.webp" alt="Node JS"/>
 </p>
 
 
 ### My tools 🧰
 
 <p>
- <img src="https://img.icons8.com/color/48/000000/unity" alt="Unity">
- 
  <img src="https://img.icons8.com/color/48/000000/linux" alt="Linux">
  
  <img src="https://img.icons8.com/color/48/000000/git" alt="Git">
@@ -48,19 +46,14 @@ I'm a French student working in IT at IUT Nancy Charlemagne, currently in my 3rd
  
  </p>
 
-<!--
 ## My projects 📂
 
- - [Project 1](https://github.com/username/project1) - Description of project 1.
-- [Project 2](https://github.com/username/project2) - Description of project 2.
-- [Project 3](https://github.com/username/project3) - Description of project 3.
+ - [Mimoo Portfolio](https://github.com/Temmiiee/Mimoo-portfolio) - Portfolio I made for my artist gf.
+- [Minecraft Item Generator](https://github.com/Temmiiee/Minecraft-Item-Generator) - Very basic random minecraft item generator to challenge yourself into getting the random item the fastest. 
+- [Everyday Nature Bot](https://github.com/Temmiiee/everyday-nature-bot/) - Simple bluesky bot that post nature pictures eveyday.
 -->
-
-<!--
-## GitHub Stats
 
 [![Temmiiee's GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=Temmiiee&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
--->
 
 ## Contact 📞
 
