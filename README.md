@@ -44,9 +44,9 @@
 
 ## 📊 GitHub Stats
 
-[![Temmiiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Temmiiee&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Temmiiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Temmiiee)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temmiiee&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temmiiee)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
