@@ -1,59 +1,78 @@
-# 👋 Hi, I'm Mattheo
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Matthéo%20Terminé&fontSize=52&fontColor=e2e2e2&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Freelance&descSize=18&descAlignY=58&descColor=7f8cc7)
 
-🚀 Web developer passionate about building **modern, performant and accessible** websites.  
-🎓 Graduated from a **BUT Métiers du Multimédia et de l’Internet (MMI)** at Université de Lorraine, specialized in **web development** and **interactive interfaces**.  
-✨ I love creating digital experiences that combine **clean code**, **good UX/UI design**, and **SEO optimization**.  
+<img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='38' align="left"/>
 
----
+### Matthéo Termine
 
-## 🔧 Technologies & Tools
+![profile views](https://komarev.com/ghpvc/?username=Temmiiee&color=6366f1&style=flat)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Temmiiee?label=Follow&style=social)](https://github.com/Temmiiee)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success?style=flat)&nbsp;
+![open to work](https://img.shields.io/badge/open%20to%20work-yes-brightgreen?style=flat)
 
-<p>
-  <!-- Frontend -->
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/vue-js.png" alt="Vue.js"/>
-  
-  <!-- Backend -->
-  <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
-  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+### 👨🏻‍💻 &nbsp;À propos
 
-  <!-- Tools -->
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/wordpress.png" alt="WordPress"/>
-  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
-  <img src="https://img.icons8.com/color/48/visual-studio.png" alt="Visual Studio"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" height="48" width="48"/>
-</p>
+💼 &nbsp;Développeur Full-Stack freelance, je conçois et développe des applications web modernes.\
+♿ &nbsp;J'accorde une attention particulière à l'**accessibilité web** (RGAA/WCAG), je crée des interfaces inclusives, utilisables par tous.\
+🛠 &nbsp;Mon stack principal : **React, Next.js, Node.js, TypeScript, Vite** et **WordPress**.\
+🌍 &nbsp;Basé en France, je travaille avec des clients en France et à l'international.\
+📄 &nbsp;Portfolio : [mattheo-termine.fr](https://mattheo-termine.fr)
 
----
+### 🛠 &nbsp;Tech Stack
 
-## 📂 Projects
+**Langages**\
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 
-- 🎨 [**Mimoo Portfolio**](https://github.com/Temmiiee/Mimoo-portfolio) — Portfolio created for an artist.  
-- 🎮 [**Minecraft Item Generator**](https://github.com/Temmiiee/Minecraft-Item-Generator) — A fun random item generator for Minecraft challenges.  
-- 🤖 [**Everyday Nature Bot**](https://github.com/Temmiiee/everyday-nature-bot) — A Bluesky bot posting nature pictures daily.  
+**Frontend**\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
+![Three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 
----
+**Backend & CMS**\
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 
-## 📊 GitHub Stats
+**Outils**\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
 
-[![Temmiiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Temmiiee)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 &nbsp;Projets en vedette
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temmiiee)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Temmiiee/3DMorpion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Temmiiee&repo=3DMorpion&theme=tokyonight&hide_border=true&bg_color=0d0d0d" />
+</a>
+<a href="https://github.com/Temmiiee/Mimoo-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Temmiiee&repo=Mimoo-portfolio&theme=tokyonight&hide_border=true&bg_color=0d0d0d" />
+</a>
 
----
+<br/><br/>
 
-## 📫 Let's connect
+> 🌌 **[3D Morpion](https://3d-morpion.pages.dev/)** — Morpion en 3D avec React Three Fiber, effets bloom, mode vs IA et variante Misère.
+
+> 🎨 **[Mimoo Portfolio](https://temmiiee.github.io/Mimoo-portfolio/)** — Portfolio pour une artiste digitale spécialisée en illustration et character design.
+
+### 📊 &nbsp;GitHub Stats
 
 <p align="left">
-  <a href="mailto:mattheotermine104@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/mattheo-termine-a6918522b"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://github.com/Temmiiee"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/></a>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Temmiiee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temmiiee&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d0d0d"/>
 </p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Temmiiee&theme=tokyonight&hide_border=true&background=0d0d0d" alt="Temmiiee streak"/>
+</p>
+
+### 📫 &nbsp;Contact
+
+<a href="https://mattheo-termine.fr"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%230d0d0d.svg?style=flat&logo=google-chrome&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/mattheo-termine-a6918522b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:mattheotermine104@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=110&section=footer)
