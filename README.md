@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Matthéo%20Terminé&fontSize=52&fontColor=e2e2e2&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Freelance&descSize=18&descAlignY=58&descColor=7f8cc7)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Matthéo%20Termine&fontSize=52&fontColor=e2e2e2&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Freelance&descSize=18&descAlignY=58&descColor=7f8cc7)
 
 <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='38' align="left"/>
 
@@ -45,25 +45,11 @@
 
 ### 🚀 &nbsp;Projets en vedette
 
-<a href="https://github.com/Temmiiee/3DMorpion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Temmiiee&repo=3DMorpion&theme=tokyonight&hide_border=true&bg_color=0d0d0d" />
-</a>
-<a href="https://github.com/Temmiiee/Mimoo-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Temmiiee&repo=Mimoo-portfolio&theme=tokyonight&hide_border=true&bg_color=0d0d0d" />
-</a>
-
-<br/><br/>
-
 > 🌌 **[3D Morpion](https://3d-morpion.pages.dev/)** — Morpion en 3D avec React Three Fiber, effets bloom, mode vs IA et variante Misère.
 
 > 🎨 **[Mimoo Portfolio](https://temmiiee.github.io/Mimoo-portfolio/)** — Portfolio pour une artiste digitale spécialisée en illustration et character design.
 
 ### 📊 &nbsp;GitHub Stats
-
-<p align="left">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Temmiiee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temmiiee&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d0d0d"/>
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Temmiiee&theme=tokyonight&hide_border=true&background=0d0d0d" alt="Temmiiee streak"/>
