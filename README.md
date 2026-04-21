@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Matthéo%20Termine&fontSize=52&fontColor=e2e2e2&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Freelance&descSize=18&descAlignY=58&descColor=7f8cc7)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Matthéo%20Termine&fontSize=52&fontColor=e2e2e2&fontAlignY=38&desc=Full-Stack%20Developer&descSize=18&descAlignY=58&descColor=7f8cc7)
 
 <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='38' align="left"/>
 
@@ -11,7 +11,7 @@
 
 ### 👨🏻‍💻 &nbsp;À propos
 
-💼 &nbsp;Développeur Full-Stack freelance, je conçois et développe des applications web modernes.\
+💼 &nbsp;Développeur Full-Stack, je conçois et développe des applications web modernes.\
 ♿ &nbsp;J'accorde une attention particulière à l'**accessibilité web** (RGAA/WCAG), je crée des interfaces inclusives, utilisables par tous.\
 🛠 &nbsp;Mon stack principal : **React, Next.js, Node.js, TypeScript, Vite** et **WordPress**.\
 🌍 &nbsp;Basé en France, je travaille avec des clients en France et à l'international.\
